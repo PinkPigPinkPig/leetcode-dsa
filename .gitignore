@@ -1,0 +1,58 @@
+############################
+# OS / General
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# IDE / Editors
+############################
+.idea/
+.vscode/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+############################
+# Build / Output
+############################
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+############################
+# .NET / NuGet
+############################
+*.log
+*.tlog
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+*.snupkg
+packages/
+*.nupkg
+
+############################
+# Rider / ReSharper
+############################
+*.DotSettings.user
+.idea/
+.idea.*
+
+############################
+# Misc
+############################
+*.tmp
+*.bak
+*.swp
+*.userprefs
+
+
